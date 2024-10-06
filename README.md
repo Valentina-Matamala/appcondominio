@@ -1,2 +1,0 @@
-# appcondominio
-App condominio Prueba
